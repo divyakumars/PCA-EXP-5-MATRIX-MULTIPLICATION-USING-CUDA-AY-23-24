@@ -199,7 +199,6 @@ int main()
 ```
 
 ## OUTPUT:
-![image](https://github.com/divyakumars/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/119393621/87141d00-2302-4db4-9b38-479435cc2786)
 
 ![image](https://github.com/divyakumars/PCA-EXP-5-MATRIX-MULTIPLICATION-USING-CUDA-AY-23-24/assets/119393621/67be7b22-f6e4-4bfd-aa72-f89907086aba)
 
